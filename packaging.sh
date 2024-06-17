@@ -11,6 +11,6 @@ git add .
 
 git commit -m "$commit_message"
 
-git push https://github.com/thebbstudio/ССЫЛКА_НА_РЕПОЗИТОРИЙ.git
+git push https://github.com/thebbstudio/habr-bot.git
 
 echo 'Проект собран'
